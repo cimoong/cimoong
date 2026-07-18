@@ -49,10 +49,7 @@ By day: backend/full-stack engineer keeping production systems boring (in a good
 
 <div align="center">
 <img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=cimoong&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=cimoong&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://streak-stats.demolab.com/?user=cimoong&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
