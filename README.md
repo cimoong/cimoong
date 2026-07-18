@@ -48,7 +48,7 @@ By day: backend/full-stack engineer keeping production systems boring (in a good
 ## 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-seven-rho.vercel.app/api/top-langs/?username=cimoong&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=cimoong&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
