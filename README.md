@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Hi%2C%20I'm%20Slamet%20%F0%9F%91%8B&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20.NET%20Engineer%20%7C%20Now%20teaching%20LLMs%20to%20behave&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:239120&height=200&section=header&text=Hi%2C%20I'm%20Slamet%20%F0%9F%98%8E&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20.NET%20Engineer%20%7C%20Now%20teaching%20LLMs%20to%20behave&descAlignY=55&descSize=18" />
 
 <a href="https://www.linkedin.com/in/slamet-mahendra/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -48,12 +48,15 @@ By day: backend/full-stack engineer keeping production systems boring (in a good
 ## 📊 GitHub stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api?username=cimoong&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats-rickstaa.vercel.app/api/top-langs/?username=cimoong&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-seven-rho.vercel.app/api/top-langs/?username=cimoong&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=cimoong&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=cimoong&theme=tokyo-night&hide_border=true" />
 </div>
 
 ## 🎯 What I'm up to
